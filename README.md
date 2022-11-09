@@ -10,4 +10,6 @@ The user interacts with the computer by text. They are asked to input data into 
 I tested this code by using a series of images from the internet and by seeing whether or not the computer correctly idenitfied their features.
 
 ### Evaluation
-I feel that this project went well because the computer has a 65.6% accuracy level for emotion recognition, a 66.7% accuracy level for identify the direction a person is looking and an 81.8% accuracy level for identifying whether a person's eyes are open or closed. It could be more accurate if I enlarged the dataset.
+I feel that this project went well because the computer has a 65.6% accuracy level for emotion recognition, a 66.7% accuracy level for identify the direction a person is looking and an 81.8% accuracy level for identifying whether a person's eyes are open or closed. It could be more accurate if I enlarged the dataset. 
+
+However, each dataset takes around 20 minutes to train.
