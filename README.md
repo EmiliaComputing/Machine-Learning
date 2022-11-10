@@ -1,4 +1,4 @@
-# Machine-Learning
+# Machine Learning
 
 ### Introduction
 This is a project which detects people's emotions, the direction they are facing and whether their eyes are open or closed. I wrote this code using Python and Google Colaboratory. I decided to use Python because I wanted to create a text based program which would enable the user to input data and I felt that this programming language would be most suited to me developing a project with these features. 
