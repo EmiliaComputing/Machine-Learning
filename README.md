@@ -1,5 +1,8 @@
 # Machine Learning
 
+## Facial Recognition
+(completed 2022)
+
 ### Introduction
 This is a project which detects people's emotions, the direction they are facing and whether their eyes are open or closed. I wrote this code using Python and Google Colaboratory. I decided to use Python because I wanted to create a text based program which would enable the user to input data and I felt that this programming language would be most suited to me developing a project with these features. 
 
@@ -13,3 +16,8 @@ I tested this code by using a series of images from the internet and by seeing w
 I feel that this project went well because the computer has a 65.6% accuracy level for emotion recognition, a 66.7% accuracy level for identify the direction a person is looking and an 81.8% accuracy level for identifying whether a person's eyes are open or closed. It could be more accurate if I enlarged the dataset. 
 
 However, each dataset takes around 20 minutes to train.
+
+## Image Creation (DCGAN)
+(completed 2023)
+
+The code has never been fully run, but should create images of people. However, it takes an estimated 48 to finalise generating these images, and the longest I have ever been able to run it for is 6 hours. 
