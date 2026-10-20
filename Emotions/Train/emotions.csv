@@ -1,0 +1,66 @@
+id,img,name,emotion,direction_looking,eyes_open_closed,face_covering
+img1,Unknown.jpeg,img1,happy,towards,open,no
+img2,Unknown_copy.jpeg,img2,happy,towards,open,no
+img3,images.jpeg,img3,sad,away from,open,no
+img4,images_copy.jpeg,img4,scared,towards,open,no
+img5,smilemask.jpeg,img5,happy,towards,open,yes
+img6,imgcoding.jpeg,img6,angry,away from,open,no
+img7,codingemotionimg7.jpeg,img7,stressed,away from,closed,no
+img8,img8.jpeg,img8,neutral,towards,open,no
+img9,imagesad.jpeg,img9,sad,away from,open,no
+img10,sleepy.jpeg,img10,tired,towards,closed,no
+img11,dataimg.jpeg,img11,tired,towards,closed,no
+img12,eyesshut.jpeg,img12,happy,towards,closed,no
+img13,newimg.jpeg,img13,happy,towards,open,no
+img14,womanstressed.jpeg,img14,stressed,away from,open,no
+img15,glasseswoman.jpeg,img15,neutral,towards,open,yes
+img16,manpray.jpeg,img16,sad,away from,open,yes
+img17,crywoman.jpeg,img17,sad,away from,closed,yes
+img18,pokerface.jpeg,img8,neutral,towards,open,no
+img19,img19.jpeg,img8,neutral,towards,open,no
+img20,manwithbeard.jpeg,img20,happy,towards,open,yes
+img21,manwithplainbackground.jpeg,img21,happy,towards,open,no
+img22,yellowbackground.jpeg,img22,happy,away from,closed,no
+img23,pinkhair.jpeg,img23,happy,away from,closed,yes
+img24,bysea.jpeg,img24,happy,away from,closed,no
+img25,child.jpeg,img25,sad,away from,open,no
+img26,upset.jpeg,img26,sad,towards,open,no
+img27,fear.jpeg,img27,scared,away from,open,yes
+img28,phobia.jpeg,img28,scared,away from,open,yes
+img29,scream.jpeg,img29,scared,towards,open,no
+img30,frightened.jpeg,img30,scared,towards,open,no
+img31,maskwearingscared.jpeg,img31,scared,towards,open,yes
+img32,lookup.jpeg,img13,happy,away from,open,no
+img33,fieldbackground.jpeg,img33,happy,towards,open,no
+img34,anger.jpeg,img34,angry,towards,closed,no
+img35,data_img_.jpeg,img35,angry,away from,open,no
+img36,angrychild.jpeg,img36,angry,towards,open,no
+img37,manpoint.jpeg,img37,angry,towards,open,yes
+img38,confused.jpeg,img38,confused,towards,open,no
+img39,shrug.jpeg,img39,confused,towards,open,yes
+img40,scratch.jpeg,img40,confused,away from,open,no
+img41,tiredness.jpeg,img41,tired,towards,open,no
+img42,blueshirt.jpeg,img42,tired,away from,closed,yes
+img43,stress3.jpeg,img43,stressed,away from,open,no
+img44,womanstress.jpeg,img44,stressed,towards,closed,no
+img45,confusion.jpeg,img45,confused,away from,open,yes
+img46,childanger.jpeg,img46,angry,towards,open,no
+img47,tired.jpeg,img47,tired,away from,closed,yes
+img48,womanlaptop.jpeg,img48,stressed,away from,open,yes
+img49,scratchhead.jpeg,img49,confused,towards,open,no
+img50,worry.jpeg,img50,scared,away from,open,no
+img51,sad.jpeg,img51,sad,away from,closed,no
+img52,neutral.jpeg,img52,neutral,towards,open,no
+img53,manstress.jpeg,img53,stressed,away from,closed,yes
+img54,bluebackground.jpeg,img54,confused,away from,open,no
+img55,manshout.jpeg,img55,angry,towards,open,no
+img56,sleepy2.jpeg,img56,tired,towards,closed,no
+img57,_happy_.jpeg,img57,happy,towards,open,no
+img58,anotherhappyperson.jpeg,img58,happy,towards,open,no
+img59,morehappy.jpeg,img59,happy,towards,open,no
+img60,windowlook.jpeg,img60,happy,away from,open,no
+img61,annoyed.jpeg,img61,angry,towards,open,yes
+img62,angerwoman.jpeg,img62,angry,towards,open,no
+img63,angrywoman.jpeg,img63,angry,towards,open,no
+img64,angerclosedeyes.jpeg,img64,angry,towards,closed,no
+img65,anger._.jpeg,img65,angry,towards,open,no
